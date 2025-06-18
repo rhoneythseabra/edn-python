@@ -1,8 +1,8 @@
 print('Calculadora de preço total')
 
-nomeProduto = 'Cadeira infantil'
-precoProduto = 12.40
-quantidadeComprada = 3
+nomeProduto = input("Digite o nome do produto: ")
+precoProduto = float(input("Digite o preço do produto: "))
+quantidadeComprada = int(input("Digite a quantidade comprada: "))
 
 valorTotalDaCompra = precoProduto * quantidadeComprada
 
