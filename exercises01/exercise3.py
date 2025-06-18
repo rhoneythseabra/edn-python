@@ -4,6 +4,6 @@ comprimento = 12
 largura = 14
 altura = 20
 
-volume = comprimento + largura + altura / 3
+volume = comprimento * largura * altura 
 
-print(f'A caixa tem um volume de {volume:.2f} cm³')
+print(f'A caixa tem um volume de {volume} cm³')
