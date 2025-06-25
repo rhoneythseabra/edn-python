@@ -1,1 +1,0 @@
-print('Olá, Mundo! Rhoney aqui :)')
